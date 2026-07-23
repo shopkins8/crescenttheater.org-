@@ -66,6 +66,7 @@ img { display: block; }
   border-bottom: 1px solid var(--border-muted);
 }
 .header-inner { display: flex; align-items: center; gap: 24px; padding-top: 14px; padding-bottom: 14px; }
+.brand-logo { display: block; height: auto; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--text-default); }
 .brand:hover { color: var(--text-default); }
 .brand-name {

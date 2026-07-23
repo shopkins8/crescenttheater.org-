@@ -23,8 +23,7 @@ $NAV = array(
   <header class="site-header">
     <div class="wrap header-inner">
       <a class="brand" href="index.php">
-        <img src="assets/crescent-mark-black.svg" alt="The Crescent Theater" width="27" height="21">
-        <span class="brand-name">The Crescent Theater</span>
+        <img src="assets/logo-black.svg" alt="The Crescent Theater" width="166" height="25" class="brand-logo">
       </a>
       <nav class="main-nav" aria-label="Primary">
         <?php foreach ($NAV as $item): ?>
