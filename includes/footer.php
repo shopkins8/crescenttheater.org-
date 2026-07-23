@@ -4,7 +4,7 @@
     <div class="wrap footer-grid">
       <div>
         <div class="footer-brand">
-          <img src="assets/logo-white.svg" alt="The Crescent Theater" width="180" height="27" class="brand-logo">
+          <img src="assets/logo-white.svg" alt="The Crescent Theater" width="188" height="27" class="brand-logo">
         </div>
         <p>In the heart of the Riverside district<br>Two minutes from Crescent Bridge station</p>
       </div>
